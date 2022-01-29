@@ -1,2 +1,2 @@
 # SharpRain
-Matrix rain effect in C#
+Matrix rain effect in C#.
